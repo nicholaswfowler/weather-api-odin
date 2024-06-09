@@ -1,0 +1,14 @@
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.location-btn{
+    height: 50%;
+}
+
+.content{
+    text-align: center;
+}
